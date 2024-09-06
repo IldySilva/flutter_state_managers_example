@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="861898f6-1a41-4e61-9d38-a46ecf01f069" name="Changes" comment="" />
+    <list default="true" id="861898f6-1a41-4e61-9d38-a46ecf01f069" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/provider/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/kotlin/com/example/provider/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/web/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,16 +56,35 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IldySilva"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IldySilva/flutter_state_managers_example.git",
+    "accountId": "b2032070-5469-4831-b19c-046724d6c301"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2jnX7dc4nch1x50WUnpPcNDUQyc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Flutter.main.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -37,9 +92,10 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
     "io.flutter.reload.alreadyRun": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Vasconcelos/StudioProjects/state_manager_examples/dart_global_state",
+    "last_opened_file_path": "C:/Users/Vasconcelos/StudioProjects/flutter_state_managers_example/provider",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -77,5 +133,8 @@
       <updated>1722023672364</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
